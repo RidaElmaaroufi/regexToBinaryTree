@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="default" />
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
+[Editor_0]
+CursorCol=14
+CursorRow=15
+TopLine=13
+LeftChar=1
+[Editors]
+Order=1,0,2,4,3
+Focused=3
+[Editor_1]
+CursorCol=14
+CursorRow=8
+TopLine=1
+LeftChar=1
+[Editor_2]
+CursorCol=5
+CursorRow=111
+TopLine=1
+LeftChar=1
+[Editor_3]
+CursorCol=56
+CursorRow=97
+TopLine=92
+LeftChar=1
+[Editor_4]
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
